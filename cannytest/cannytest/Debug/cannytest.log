@@ -1,0 +1,125 @@
+﻿生成启动时间为 2015/4/20 12:27:03。
+     1>项目“D:\store\document\Visual Studio 2013\Projects\cannytest\cannytest\cannytest.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\cannytest.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /wd4430 cannytest.cpp
+         cannytest.cpp
+     1>d:\store\document\visual studio 2013\projects\cannytest\cannytest\rand.h(15): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+     1>d:\opencv\build\include\opencv2\imgproc\types_c.h(396): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\imgproc\types_c.h(396): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\imgproc\types_c.h(396): error C2059: 语法错误:“)”
+     1>d:\opencv\build\include\opencv2\imgproc\imgproc.hpp(458): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\imgproc\imgproc.hpp(458): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\imgproc\imgproc.hpp(458): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\imgproc\imgproc.hpp(458): error C2059: 语法错误:“)”
+     1>d:\opencv\build\include\opencv2\imgproc\imgproc.hpp(1120): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\imgproc\imgproc.hpp(1120): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\imgproc\imgproc.hpp(1120): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\imgproc\imgproc.hpp(1120): error C2059: 语法错误:“)”
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(962): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+                 d:\opencv\build\include\opencv2\features2d\features2d.hpp(966): 参见对正在编译的类 模板 实例化“cv::SL2<T>”的引用
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(962): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(962): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(962): error C2059: 语法错误:“)”
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(963): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(978): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+                 d:\opencv\build\include\opencv2\features2d\features2d.hpp(982): 参见对正在编译的类 模板 实例化“cv::L2<T>”的引用
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(978): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(978): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(978): error C2059: 语法错误:“)”
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(979): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(994): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+                 d:\opencv\build\include\opencv2\features2d\features2d.hpp(998): 参见对正在编译的类 模板 实例化“cv::L1<T>”的引用
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(994): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(994): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(994): error C2059: 语法错误:“)”
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(995): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1012): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1012): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1012): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1012): error C2059: 语法错误:“)”
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1013): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1026): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+                 d:\opencv\build\include\opencv2\features2d\features2d.hpp(1030): 参见对正在编译的类 模板 实例化“cv::HammingMultilevel<cellsize>”的引用
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1026): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1026): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1026): error C2059: 语法错误:“)”
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1027): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1053): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1053): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1053): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1053): error C2059: 语法错误:“)”
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1054): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1185): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1185): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1185): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1185): error C2059: 语法错误:“)”
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1185): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1417): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1417): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1417): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1417): error C2059: 语法错误:“)”
+     1>d:\opencv\build\include\opencv2\features2d\features2d.hpp(1417): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>d:\opencv\build\include\opencv2\objdetect\objdetect.hpp(568): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\objdetect\objdetect.hpp(568): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\objdetect\objdetect.hpp(568): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\objdetect\objdetect.hpp(568): error C2059: 语法错误:“)”
+     1>d:\opencv\build\include\opencv2\objdetect\objdetect.hpp(568): error C2238: 意外的标记位于“;”之前
+     1>d:\opencv\build\include\opencv2\objdetect\objdetect.hpp(552): error C2662: “void cv::HOGDescriptor::copyTo(cv::HOGDescriptor &)”: 不能将“this”指针从“const cv::HOGDescriptor”转换为“cv::HOGDescriptor &”
+                 转换丢失限定符
+     1>d:\opencv\build\include\opencv2\core\affine.hpp(453): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\core\affine.hpp(455): error C2228: “.val”的左边必须有类/结构/联合
+                 类型是“__int64”
+     1>d:\opencv\build\include\opencv2\core\affine.hpp(456): error C2228: “.val”的左边必须有类/结构/联合
+                 类型是“__int64”
+     1>d:\opencv\build\include\opencv2\core\affine.hpp(457): error C2228: “.val”的左边必须有类/结构/联合
+                 类型是“__int64”
+     1>d:\opencv\build\include\opencv2\core\affine.hpp(464): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\core\affine.hpp(466): error C2228: “.val”的左边必须有类/结构/联合
+                 类型是“__int64”
+     1>d:\opencv\build\include\opencv2\core\affine.hpp(467): error C2228: “.val”的左边必须有类/结构/联合
+                 类型是“__int64”
+     1>d:\opencv\build\include\opencv2\core\affine.hpp(468): error C2228: “.val”的左边必须有类/结构/联合
+                 类型是“__int64”
+     1>d:\opencv\build\include\opencv2\ml\ml.hpp(224): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\ml\ml.hpp(224): error C2238: 意外的标记位于“;”之前
+     1>d:\opencv\build\include\opencv2\ml\ml.hpp(462): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\ml\ml.hpp(462): error C3805: “常量”:  意外标记，应输入“}”或者“,”
+     1>d:\opencv\build\include\opencv2\ml\ml.hpp(481): error C2589: “常量”:“::”右边的非法标记
+     1>d:\opencv\build\include\opencv2\ml\ml.hpp(503): error C2589: “常量”:“::”右边的非法标记
+     1>d:\opencv\build\include\opencv2\ml\ml.hpp(676): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\ml\ml.hpp(676): error C2238: 意外的标记位于“;”之前
+     1>d:\opencv\build\include\opencv2\contrib\contrib.hpp(700): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\contrib\contrib.hpp(766): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\contrib\contrib.hpp(836): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\contrib\contrib.hpp(836): error C2238: 意外的标记位于“;”之前
+     1>d:\opencv\build\include\opencv2\contrib\contrib.hpp(840): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\contrib\contrib.hpp(833): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+     1>d:\opencv\build\include\opencv2\contrib\contrib.hpp(833): error C2106: “=”: 左操作数必须为左值
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(91): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(91): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(91): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(91): error C2059: 语法错误:“)”
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(91): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(272): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(272): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(272): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(272): error C2059: 语法错误:“)”
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(272): error C2238: 意外的标记位于“;”之前
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(273): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(273): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(273): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(273): error C2059: 语法错误:“)”
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(273): error C2238: 意外的标记位于“;”之前
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(362): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(362): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(362): error C2059: 语法错误:“常量”
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(362): error C2059: 语法错误:“)”
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(362): error C2238: 意外的标记位于“;”之前
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(363): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(363): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+     1>d:\opencv\build\include\opencv2\contrib\openfabmap.hpp(363): fatal error C1003: 错误计数超过 100；正在停止编译
+     1>已完成生成项目“D:\store\document\Visual Studio 2013\Projects\cannytest\cannytest\cannytest.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.10
