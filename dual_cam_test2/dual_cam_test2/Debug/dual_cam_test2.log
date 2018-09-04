@@ -1,0 +1,39 @@
+﻿生成启动时间为 2014/11/11 13:06:31。
+     1>项目“D:\store\document\Visual Studio 2013\Projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dual_cam_test2.cpp
+         dual_cam_test2.cpp
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(20): error C2653: “CCameraDS”: 不是类或命名空间名称
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(20): error C3861: “CameraCount”:  找不到标识符
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(28): error C2653: “CCameraDS”: 不是类或命名空间名称
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(28): error C3861: “CameraName”:  找不到标识符
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(40): error C2065: “CCameraDS”: 未声明的标识符
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(40): error C2146: 语法错误: 缺少“;”(在标识符“camera1”的前面)
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(40): error C2065: “camera1”: 未声明的标识符
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(41): error C2065: “CCameraDS”: 未声明的标识符
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(41): error C2146: 语法错误: 缺少“;”(在标识符“camera2”的前面)
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(41): error C2065: “camera2”: 未声明的标识符
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(45): error C2065: “camera1”: 未声明的标识符
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(45): error C2228: “.OpenCamera”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(51): error C2065: “camera2”: 未声明的标识符
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(51): error C2228: “.OpenCamera”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(70): error C2065: “camera1”: 未声明的标识符
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(70): error C2228: “.QueryFrame”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(71): error C2065: “camera2”: 未声明的标识符
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(71): error C2228: “.QueryFrame”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(136): error C2065: “camera1”: 未声明的标识符
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(136): error C2228: “.CloseCamera”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(137): error C2065: “camera2”: 未声明的标识符
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(137): error C2228: “.CloseCamera”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(142): fatal error C1075: 与左侧的 大括号“{”(位于“d:\store\document\visual studio 2013\projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.cpp(16)”)匹配之前遇到文件结束
+     1>已完成生成项目“D:\store\document\Visual Studio 2013\Projects\dual_cam_test2\dual_cam_test2\dual_cam_test2.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.65
