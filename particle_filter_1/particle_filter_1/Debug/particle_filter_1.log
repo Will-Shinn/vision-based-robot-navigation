@@ -1,0 +1,25 @@
+﻿生成启动时间为 2014/11/22 22:20:16。
+     1>项目“D:\store\document\Visual Studio 2013\Projects\particle_filter_1\particle_filter_1\particle_filter_1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt particle_filter_01.cpp
+         particle_filter_01.cpp
+     1>d:\store\document\visual studio 2013\projects\particle_filter_1\particle_filter_1\particle_filter_01.cpp(13): warning C4822: “main::FilterEngine::FilterEngine”: 局部类成员函数没有函数体
+     1>d:\store\document\visual studio 2013\projects\particle_filter_1\particle_filter_1\particle_filter_01.cpp(22): warning C4822: “main::FilterEngine::FilterEngine”: 局部类成员函数没有函数体
+     1>d:\store\document\visual studio 2013\projects\particle_filter_1\particle_filter_1\particle_filter_01.cpp(28): warning C4822: “main::FilterEngine::~FilterEngine”: 局部类成员函数没有函数体
+     1>d:\store\document\visual studio 2013\projects\particle_filter_1\particle_filter_1\particle_filter_01.cpp(35): warning C4822: “main::FilterEngine::init”: 局部类成员函数没有函数体
+     1>d:\store\document\visual studio 2013\projects\particle_filter_1\particle_filter_1\particle_filter_01.cpp(37): warning C4822: “main::FilterEngine::start”: 局部类成员函数没有函数体
+     1>d:\store\document\visual studio 2013\projects\particle_filter_1\particle_filter_1\particle_filter_01.cpp(39): warning C4822: “main::FilterEngine::start”: 局部类成员函数没有函数体
+     1>d:\store\document\visual studio 2013\projects\particle_filter_1\particle_filter_1\particle_filter_01.cpp(44): warning C4822: “main::FilterEngine::proceed”: 局部类成员函数没有函数体
+     1>d:\store\document\visual studio 2013\projects\particle_filter_1\particle_filter_1\particle_filter_01.cpp(49): warning C4822: “main::FilterEngine::apply”: 局部类成员函数没有函数体
+     1>d:\store\document\visual studio 2013\projects\particle_filter_1\particle_filter_1\particle_filter_01.cpp(52): warning C4822: “main::FilterEngine::remainingInputRows”: 局部类成员函数没有函数体
+     1>d:\store\document\visual studio 2013\projects\particle_filter_1\particle_filter_1\particle_filter_01.cpp(54): warning C4822: “main::FilterEngine::remainingOutputRows”: 局部类成员函数没有函数体
+     1>d:\store\document\visual studio 2013\projects\particle_filter_1\particle_filter_1\particle_filter_01.cpp(28): error C3640: “main::FilterEngine::~FilterEngine”: 局部类的引用成员函数或虚拟成员函数必须进行定义
+     1>d:\store\document\visual studio 2013\projects\particle_filter_1\particle_filter_1\particle_filter_01.cpp(38): error C3640: “main::FilterEngine::start”: 局部类的引用成员函数或虚拟成员函数必须进行定义
+     1>d:\store\document\visual studio 2013\projects\particle_filter_1\particle_filter_1\particle_filter_01.cpp(37): error C3640: “main::FilterEngine::start”: 局部类的引用成员函数或虚拟成员函数必须进行定义
+     1>d:\store\document\visual studio 2013\projects\particle_filter_1\particle_filter_1\particle_filter_01.cpp(43): error C3640: “main::FilterEngine::proceed”: 局部类的引用成员函数或虚拟成员函数必须进行定义
+     1>d:\store\document\visual studio 2013\projects\particle_filter_1\particle_filter_1\particle_filter_01.cpp(46): error C3640: “main::FilterEngine::apply”: 局部类的引用成员函数或虚拟成员函数必须进行定义
+     1>已完成生成项目“D:\store\document\Visual Studio 2013\Projects\particle_filter_1\particle_filter_1\particle_filter_1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.53
